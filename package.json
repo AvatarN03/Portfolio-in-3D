@@ -10,7 +10,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
-  "homepage": "https://AvatarN03.github.io/Portfoilio-in-3D/"
+  "homepage": "https://AvatarN03.github.io/Portfolio-in-3D/"
 
   ,
   "dependencies": {
